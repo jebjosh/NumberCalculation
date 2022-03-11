@@ -1,7 +1,7 @@
 package com.jeb;
 
 public class NumberCalculation {
-	String temp ;
+	String temp ="";
 	public int add(int x, int y) {
 		
 		return x+y;
