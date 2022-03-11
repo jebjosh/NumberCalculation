@@ -23,12 +23,7 @@ public class NumberCalculationTest {
 		
 	}
 	
-	@Test
-	public void testCase4() {
-		
-		assertEquals(nc.convertCase("hello"), "HELLO");
-		
-	}
+
 //	@Test
 //	public void testCase3() {
 //		
